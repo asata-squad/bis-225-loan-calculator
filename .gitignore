@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.local
+server-laravel/vendor/
+server-laravel/node_modules/
+server-laravel/storage/logs/
+server-laravel/.phpunit.result.cache
+.tsbuildinfo
